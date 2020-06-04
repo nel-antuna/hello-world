@@ -1,2 +1,4 @@
 # hello-world
-Testing how to create a new repository
+Testing a new repository
+
+Just writing around to see how to create a branch and commit changes
